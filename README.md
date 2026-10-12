@@ -128,16 +128,16 @@ Open http://localhost:3000 in your browser.
 
 ## My Role
 
-I was the project originator and primary developer for ClinicFlow.
+As a team member in CSCI-275 Software Engineering at Columbia College, I contributed to documentation and unit testing for ClinicFlow.
 
-My responsibilities included:
-- Conceptualizing the ClinicFlow platform and defining the problem scope
-- Designing the system architecture and core workflows
-- Selecting the technology stack and defining dependencies
-- Implementing the full application logic across frontend and backend
-- Designing database models and API endpoints
-- Integrating authentication, role-based access, and scheduling logic
-- Deploying the application and maintaining the codebase
+- Supported unit testing to check application functionality and scheduling workflows.
+- Helped organize project data and technical documentation.
+- Contributed to the user interface using Tailwind CSS.
+- Communicated project functionality through documentation and class presentations.
+
+## Project Context
+
+ClinicFlow was developed using Agile methodology as an academic team project. The application provides role-specific interfaces for clinic managers, receptionists, and doctors to support appointment scheduling and daily clinic workflows.
 
 ---
 
